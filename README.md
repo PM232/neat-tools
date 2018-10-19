@@ -6,3 +6,4 @@
 
 ## Terminal Task Management
 - Taskwarrior // https://taskwarrior.org/
+- Taskbook https://github.com/klauscfhq/taskbook
